@@ -16,3 +16,4 @@ Grading rubrics for the homework assignments in each Kickstart Coding course
   - [HW 2](3-frontend.md#hw-2)
   - [HW 3](3-frontend.md#hw-3)
   - [HW 4](3-frontend.md#hw-4)
+  - [HW 5](3-frontend.md#hw-5)
