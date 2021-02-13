@@ -3,7 +3,6 @@
 [HW1](#hw-1) | [HW2](#hw-2) | [HW3](#hw-3) | [HW4](#hw-4)
 
 # HW 1
-[back to top](#Quick-Links)
 
 ### Requirements
 
@@ -43,8 +42,9 @@ Start with 100, then subtract.
     * -5 points if late
     * -1-5 points if minor visual defects (e.g. glitchy space, etc)
 
-# HW 2
 [back to top](#Quick-Links)
+
+# HW 2
 
 ### Rubric
 
@@ -70,9 +70,9 @@ Start with 100, then subtract.
     * -5 points if late
     * -1-5 points if minor visual defects (e.g. glitchy space, etc)
 
+[back to top](#Quick-Links)
 
 # HW 3
-[back to top](#Quick-Links)
 
 ### Rubric
 
@@ -102,8 +102,9 @@ Start with 100, then subtract.
     * -5 points if late
     * -1-5 points if minor visual defects (e.g. glitchy space, etc)
 
-# HW 4
 [back to top](#Quick-Links)
+
+# HW 4
 
 ### Rubric
 
@@ -130,4 +131,4 @@ Start with 100, then subtract.
     * -5 points if messy repo, commented out code
     * -5 points if late
 
-
+[back to top](#Quick-Links)

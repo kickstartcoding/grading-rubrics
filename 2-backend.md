@@ -3,7 +3,6 @@
 [HW1](#hw-1) | [HW2](#hw-2)
 
 # HW 1
-[back to top](#Quick-Links)
 
 ### Rubric
 
@@ -25,9 +24,9 @@ Start with 100, then subtract.
     * -5 if Django is mangled in a truly weird way
     * -5 points if late
 
+[back to top](#Quick-Links)
 
 # HW 2
-[back to top](#Quick-Links)
 
 ### Rubric
 
@@ -52,4 +51,4 @@ Start with 100, then subtract.
     * -5 if Django is mangled in a truly weird way
     * -5 points if late
 
-
+[back to top](#Quick-Links)
