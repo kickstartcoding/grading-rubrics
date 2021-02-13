@@ -1,6 +1,8 @@
+# Quick Links
+
 [HW1](#hw-1) | [HW2](#hw-2) | [HW3](#hw-3) | [HW4](#hw-4) | [HW5](#hw-5)
 
-# HW 1
+# HW 1 ([back to top](#Quick-Links))
 
 ### Rubric
 
@@ -23,7 +25,7 @@ Start with 100, then subtract.
     * -1-5 points if minor visual defects (e.g. glitchy space, etc)
 
 
-# HW 2
+# HW 2 ([back to top](#Quick-Links))
 
 ### Rubric
 
@@ -52,7 +54,7 @@ Start with 100, then subtract.
     * -1-5 points if minor visual defects (e.g. glitchy space, etc)
 
 
-# HW 3
+# HW 3 ([back to top](#Quick-Links))
 
 ### Rubric
 
@@ -83,7 +85,7 @@ Start with 100, then subtract.
     * -1-5 points if minor visual defects (e.g. glitchy space, etc)
 
 
-# HW 4
+# HW 4 ([back to top](#Quick-Links))
 
 ### Rubric
 
