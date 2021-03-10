@@ -1,5 +1,7 @@
 # Quick Links
 
+[Fundamentals Course](1-fundamentals.md) | *Backend Course* | [Frontend Course](3-frontend.md)
+
 [HW1](#hw-1) | [HW2](#hw-2)
 
 # HW 1
