@@ -1,4 +1,4 @@
-# Homework 1: Website
+# Fundamentals Homework 1: Website
 
 ### Requirements
 

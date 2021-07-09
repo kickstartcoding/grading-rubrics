@@ -1,4 +1,4 @@
-# Homework 3: React
+# Frontend Homework 3: React
 
 ### Rubric
 

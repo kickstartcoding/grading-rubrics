@@ -1,4 +1,4 @@
-# Homework 1: CSS
+# Frontend Homework 1: CSS
 
 ### Rubric
 

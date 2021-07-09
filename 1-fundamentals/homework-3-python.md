@@ -1,4 +1,4 @@
-# Homework 3: Python
+# Fundamentals Homework 3: Python
 
 ### Rubric
 

@@ -1,4 +1,4 @@
-# Homework 2: Scripting
+# Fundamentals Homework 2: Scripting
 
 ### Rubric
 

@@ -1,4 +1,4 @@
-# Homework 2: JavaScript
+# Frontend Homework 2: JavaScript
 
 ### Rubric
 
