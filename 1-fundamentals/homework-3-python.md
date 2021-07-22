@@ -11,8 +11,8 @@ Start with 100, then subtract.
 
 * **Small penalties**
     * -2 points if does not distinguish links
-    * -5 points if does not template with {{content}}
-    * -5 points if does not template with {{title}}
+    * -5 points if does not template with \{\{content\}\}
+    * -5 points if does not template with \{\{title\}\}
     * -5 points if no for loops
     * -5 points if loose code, or code not in `main` invocation
     * -5 points if not 3 functions
